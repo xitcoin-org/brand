@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "assetSourceRevision": "8a3e841dbb1f78b0a15386bc1fbad411e3334241",
+  "license": "CC0-1.0 (repository LICENSE; embedded notices need owner reconciliation)",
+  "assets": [
+    {
+      "path": "assets/png/standard/xitcoin-symbol-200.png",
+      "sha256": "0ce7d305e03a254c750b804c2326f3da9d58c9be06b22f239831a9bbfef5a3c6",
+      "bytes": 32892,
+      "containerFormat": "PNG",
+      "width": 200,
+      "height": 200,
+      "embeddedRaster": null,
+      "notes": "Standard RGBA PNG export"
+    },
+    {
+      "path": "assets/png/standard/xitcoin-symbol-3000.png",
+      "sha256": "64d4b73ac21526a37c728b9c2a3c407ba75bddde42e3ed2ab78defe071e64a81",
+      "bytes": 1087703,
+      "containerFormat": "PNG",
+      "width": 3000,
+      "height": 3000,
+      "embeddedRaster": null,
+      "notes": "Standard RGBA PNG export"
+    },
+    {
+      "path": "assets/png/standard/xitcoin-symbol-32.png",
+      "sha256": "26d74fa7140f9f3dace96fd162ba7b10d7c113c41851aee4c15bda72b6de7f18",
+      "bytes": 4266,
+      "containerFormat": "PNG",
+      "width": 32,
+      "height": 32,
+      "embeddedRaster": null,
+      "notes": "Standard RGBA PNG export"
+    },
+    {
+      "path": "assets/png/standard/xitcoin-symbol-500.png",
+      "sha256": "03b7c80f5354ffc7711f252e481db5fd44e5df09be515f4b270ed14956cdffc6",
+      "bytes": 117555,
+      "containerFormat": "PNG",
+      "width": 500,
+      "height": 500,
+      "embeddedRaster": null,
+      "notes": "Standard RGBA PNG export"
+    },
+    {
+      "path": "assets/png/white/xitcoin-symbol-white-200.png",
+      "sha256": "7aa3def5ce460dfd73491e717378439a43220d942a00a6af8b7cc527b6fb7479",
+      "bytes": 13523,
+      "containerFormat": "JPEG",
+      "width": 200,
+      "height": 200,
+      "embeddedRaster": null,
+      "notes": "JPEG bytes under a legacy .png filename; opaque white background"
+    },
+    {
+      "path": "assets/png/white/xitcoin-symbol-white-3000.png",
+      "sha256": "2c0d7413ee003b2b8697d70fd800d8782267676e6fa2f80321cf2ae0475a7cf8",
+      "bytes": 358571,
+      "containerFormat": "JPEG",
+      "width": 3000,
+      "height": 3000,
+      "embeddedRaster": null,
+      "notes": "JPEG bytes under a legacy .png filename; opaque white background"
+    },
+    {
+      "path": "assets/png/white/xitcoin-symbol-white-32.png",
+      "sha256": "8ca9b2ee103da6b9b4ac3d531af16f693ca70f045f4e10baa0d13f1e75157e56",
+      "bytes": 2260,
+      "containerFormat": "JPEG",
+      "width": 32,
+      "height": 32,
+      "embeddedRaster": null,
+      "notes": "JPEG bytes under a legacy .png filename; opaque white background"
+    },
+    {
+      "path": "assets/png/white/xitcoin-symbol-white-500.png",
+      "sha256": "695e71ca00a963578bd09e8b8f2530621c23e8295f21bd31dc4bf3ba144f1b49",
+      "bytes": 37253,
+      "containerFormat": "JPEG",
+      "width": 512,
+      "height": 512,
+      "embeddedRaster": null,
+      "notes": "JPEG bytes under a legacy .png filename; opaque white background"
+    },
+    {
+      "path": "assets/svg/xitcoin-symbol-white.svg",
+      "sha256": "aeaab048a8d1a2ee6eb4ef830c2667ee1610552281f5e332e439ce8cc49ea30b",
+      "bytes": 109294,
+      "containerFormat": "SVG",
+      "width": 3000,
+      "height": 3000,
+      "embeddedRaster": {
+        "format": "PNG",
+        "width": 1000,
+        "height": 1000
+      },
+      "notes": "Raster wrapper, not path-based vector artwork"
+    },
+    {
+      "path": "assets/svg/xitcoin-symbol.svg",
+      "sha256": "7bde90423b081053cdcba74889b51c3fbe2ae93655b366f29bfa535bebfe7664",
+      "bytes": 116438,
+      "containerFormat": "SVG",
+      "width": 3000,
+      "height": 3000,
+      "embeddedRaster": {
+        "format": "PNG",
+        "width": 1000,
+        "height": 1000
+      },
+      "notes": "Raster wrapper, not path-based vector artwork"
+    }
+  ]
+}
