@@ -111,5 +111,7 @@
       },
       "notes": "Raster wrapper, not path-based vector artwork"
     }
-  ]
+  ],
+  "assetSetSha256": "d759a14bd7b7a4ca1ef455444dd2a9478194efc5b505920e0f3f38936febca40",
+  "assetSetHashFormat": "SHA-256 of UTF-8 lines sorted by path: <sha256><two spaces><path><LF>"
 }
