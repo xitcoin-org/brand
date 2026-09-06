@@ -2,6 +2,8 @@
 
 Inspected 5 September 2026 at source revision `8a3e841dbb1f78b0a15386bc1fbad411e3334241`. The [machine-readable manifest](asset-manifest.json) records byte lengths and SHA-256 identifiers. No artwork bytes were changed.
 
+Asset set SHA-256: `d759a14bd7b7a4ca1ef455444dd2a9478194efc5b505920e0f3f38936febca40`, computed using the sorted path/hash format in the manifest.
+
 | File | Actual format | Dimensions | Notes |
 |---|---|---|---|
 | [assets/png/standard/xitcoin-symbol-200.png](assets/png/standard/xitcoin-symbol-200.png) | PNG | 200 × 200 | Standard RGBA PNG export |
